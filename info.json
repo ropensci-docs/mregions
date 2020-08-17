@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "ffffd9b6bf28e6f7d160ff55fd9d11f323e828d6",
+    "author": "Lennert Schepers <6145889+LennertSchepers@users.noreply.github.com>",
+    "time": "2020-08-17 22:31:06",
+    "files": 3,
+    "merge": false,
+    "message": "added authors to package description\n"
+  },
+  "remote": "https://github.com/ropensci/mregions",
+  "pkg": "mregions"
+}
