@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "5e97b445bfc1934a9584203dbe19ce87c365b3df",
+    "author": "salvafern <salvador.fernandez@vliz.be>",
+    "time": "2024-02-27 13:29:57",
+    "files": 6,
+    "merge": false,
+    "message": "refactor: get ready for CRAN publishing\n"
+  },
+  "repo": "https://github.com/ropensci/mregions",
+  "pkg": "mregions"
+}
